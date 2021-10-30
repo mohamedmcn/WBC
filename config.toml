@@ -1,0 +1,41 @@
+baseURL = "https://mohamedmcn.github.io/WBC/"
+#baseURL = "https://localhost/"
+#baseURL = "https://mohamedcamara.infenlaces.com/hugo/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "learn"
+[outputs]
+home=[ "HTML", "RSS", "JSON"]
+[params]
+themeVariant = "green"
+[[menu.shortcuts]] 
+name = "<i class='fab fa-github'></i> Github repo"
+identifier = "ds"
+url = "https://github.com/matcornic/hugo-theme-learn"
+weight = 10
+[[menu.shortcuts]] 
+name = "<i class='fas fa-dumbbell'></i> WBC"
+identifier = "wbc"
+url = "https://wbcboxing.com/en/"
+weight = 11
+
+
+
+
+[Languages]
+[Languages.en]
+title = "Documentation for Hugo Learn Theme"
+weight = 1
+languageName = "English"
+
+[Languages.es]
+title = "Documentación para el tema Hugo Learn"
+weight = 2
+languageName = "Español"
+
+
+[Languages.fr]
+title = "Documentation du thème Hugo Learn"
+weight = 3
+languageName = "Français"
+
