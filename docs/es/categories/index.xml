@@ -5,10 +5,6 @@
     <link>https://mohamedmcn.github.io/WBC/es/categories/</link>
     <description>Recent content in Categories on Documentación para el tema Hugo Learn</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://mohamedmcn.github.io/WBC/es/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://mohamedmcn.github.io/WBC/es/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
