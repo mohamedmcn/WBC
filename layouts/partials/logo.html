@@ -1,4 +1,10 @@
-<a id="logo" href='{{ (cond (and (ne .Site.Params.landingPageURL nil) (.Site.IsMultiLingual)) .Site.Params.landingPageURL "/") }}'>
+<!--<a id="logo" href='{{ (cond (and (ne .Site.Params.landingPageURL nil) (.Site.IsMultiLingual)) .Site.Params.landingPageURL "/") }}'>
   <img  src="/images/logo.png" alt="imagen del logo2" >
 
- </a>
+ </a>-->
+ <a id="logo"
+ href="{{ .Site.Params.landingPageURL | default "/" | relLangURL }}"
+>
+     <img src="/images/logo.png" alt="Logo de wbc">
+ Desarrollo Web
+</a>
