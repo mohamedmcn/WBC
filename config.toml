@@ -1,9 +1,10 @@
 baseURL = "https://mohamedmcn.github.io/WBC/"
 #baseURL = "https://localhost/"
 #baseURL = "https://mohamedcamara.infenlaces.com/hugo/"
-languageCode = "en-us"
+defaultContentLanguage = "es"
 title = "My New Hugo Site"
 theme = "learn"
+disableLandingPage= "true"
 [outputs]
 home=[ "HTML", "RSS", "JSON"]
 [params]
@@ -22,20 +23,20 @@ weight = 11
 
 
 
+
 [Languages]
 [Languages.en]
-title = "Documentation for Hugo Learn Theme"
+title = "World boxing council"
 weight = 1
 languageName = "English"
 
 [Languages.es]
-title = "Documentación para el tema Hugo Learn"
+title = "consejo mundial de boxeon"
 weight = 2
 languageName = "Español"
 
-
 [Languages.fr]
-title = "Documentation du thème Hugo Learn"
+title = "Conseil mondial de boxe"
 weight = 3
 languageName = "Français"
 
