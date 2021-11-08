@@ -1,14 +1,14 @@
 ---
-title: "Rankig"
+title: "Ranking"
 date: 2021-09-29T16:24:10+02:00
 draft: false
 ---
-**Las 15 clasificaciones oficiales de la categoria peso pesado de la WBC.**
+**The 15 official rankings of the WBC heavyweight category.**
 
-| Ranking peso pesado|
+| Heavyweight ranking|
 |--|
-|Tyson Fury(Campeon)  {{% button href="https://es.wikipedia.org/wiki/Tyson_Fury" %}}ver mas{{% /button %}}
-Dillian Whyte(camepon interino) {{% button href="https://es.wikipedia.org/wiki/Dillian_Whyte" %}}ver mas{{% /button %}}|
+|Tyson Fury(Champion)  {{% button href="https://es.wikipedia.org/wiki/Tyson_Fury" %}}see more{{% /button %}}
+Dillian Whyte(Interim champion) {{% button href="https://es.wikipedia.org/wiki/Dillian_Whyte" %}}see more{{% /button %}}|
 |1. Deontay Wilder|  
 |2. Andy Ruiz|  
 |3. Joe Joyce|  

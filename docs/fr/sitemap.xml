@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mohamedmcn.github.io/WBC/fr/prueba/</loc>
-    <lastmod>2021-10-27T17:41:31+02:00</lastmod>
+    <loc>https://mohamedmcn.github.io/WBC/fr/peso-pesado/</loc>
+    <lastmod>2021-09-29T18:08:50+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mohamedmcn.github.io/WBC/prueba/"
+                href="https://mohamedmcn.github.io/WBC/en/peso-pesado/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://mohamedmcn.github.io/WBC/es/prueba/"
+                href="https://mohamedmcn.github.io/WBC/peso-pesado/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mohamedmcn.github.io/WBC/fr/prueba/"
+                href="https://mohamedmcn.github.io/WBC/fr/peso-pesado/"
                 />
   </url>
   
   <url>
     <loc>https://mohamedmcn.github.io/WBC/fr/</loc>
-    <lastmod>2021-10-27T17:41:31+02:00</lastmod>
+    <lastmod>2021-09-29T18:08:50+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mohamedmcn.github.io/WBC/"
+                href="https://mohamedmcn.github.io/WBC/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://mohamedmcn.github.io/WBC/es/"
+                href="https://mohamedmcn.github.io/WBC/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -43,16 +43,56 @@
   </url>
   
   <url>
-    <loc>https://mohamedmcn.github.io/WBC/fr/categories/</loc>
+    <loc>https://mohamedmcn.github.io/WBC/fr/peso-pesado/campeon/</loc>
+    <lastmod>2021-09-29T16:24:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mohamedmcn.github.io/WBC/categories/"
+                href="https://mohamedmcn.github.io/WBC/en/peso-pesado/campeon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://mohamedmcn.github.io/WBC/es/categories/"
+                href="https://mohamedmcn.github.io/WBC/peso-pesado/campeon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mohamedmcn.github.io/WBC/fr/peso-pesado/campeon/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mohamedmcn.github.io/WBC/fr/peso-pesado/ranking/</loc>
+    <lastmod>2021-09-29T16:24:10+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mohamedmcn.github.io/WBC/en/peso-pesado/ranking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mohamedmcn.github.io/WBC/peso-pesado/ranking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mohamedmcn.github.io/WBC/fr/peso-pesado/ranking/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mohamedmcn.github.io/WBC/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mohamedmcn.github.io/WBC/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mohamedmcn.github.io/WBC/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -66,12 +106,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mohamedmcn.github.io/WBC/tags/"
+                href="https://mohamedmcn.github.io/WBC/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://mohamedmcn.github.io/WBC/es/tags/"
+                href="https://mohamedmcn.github.io/WBC/tags/"
                 />
     <xhtml:link
                 rel="alternate"
