@@ -38,8 +38,22 @@ draft: false
 
 [**PHP**](https://www.php.net/manual/es/intro-whatis.php) es un lenguaje de programacion de codigo abierto muy util a la hora de desarrollar web's.
 
+## Bibliotecas 
 
+[**jQuery**](https://jquery.com/) es una biblioteca multiplataforma de javascript, su funcion es simplificar la interaccion con el HTML y la manipulacion del arbol DOM. 
+[**Bootstrap**](https://getbootstrap.com/) es una biblioteca que se enfoca en JS,HTML y CSS y nos permite desarollar paginas web de una forma mas simple.
 
+## otras herramientas 
 
+[**Babel**](https://babeljs.io/) es una herramienta que nos ofrece la posibilidad de transformar nuestro codigo JS actual a un codigo Javascript para que cualquier navegador o version de Node.js sea capaz de interpretarlo.
+
+[**Polyfill**](https://polyfill.io/v3/) a diferencia de Babel que transforma el codigo, Polyfill proporciona una funcionalidad moderna a los navegadores desactualizados que no la admiten de forma nativa. 
+
+[**Webpack**](https://webpack.js.org/) es un conjunto de modulos principalmente hechos para javaScript, nos permiten empaquetar y exportar ficheros para la buena funcionalidad de un proyecto.  
+
+[**Prototype**](https://support.invisionapp.com/hc/en-us/articles/115002498766-Prototype) es un conjunto de varias herramientas que nos permiten diseñar teniendo a nuestra disposicion datos reales.
+
+[**JSP**]
+ 
 
 
