@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extra-Ejercicios on consejo mundial de boxeon</title>
+    <link>https://mohamedcamara.infenlaces.com/hugo/docs/extra/</link>
+    <description>Recent content in Extra-Ejercicios on consejo mundial de boxeon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 29 Sep 2021 18:08:50 +0200</lastBuildDate>
+    
+	<atom:link href="https://mohamedcamara.infenlaces.com/hugo/docs/extra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>comunicación cliente/Servidor</title>
+      <link>https://mohamedcamara.infenlaces.com/hugo/docs/extra/comunicacion/</link>
+      <pubDate>Wed, 29 Sep 2021 16:24:25 +0200</pubDate>
+      
+      <guid>https://mohamedcamara.infenlaces.com/hugo/docs/extra/comunicacion/</guid>
+      <description> sequenceDiagram participant Cliente participant Servidor web participant Servidor dns participant Servidor dns Note left of Cliente: introduce una URL en el navegador Cliente-Servidor dns: Consulta dns loop Hasta que encuentre la ip Servidor dns-Servidor dns: Pregunta al siguiente en la jerarquia end Servidor dns- Servidor dns: guardan la informacion Note right of Servidor dns: los dns por los que pasa la peticion Servidor dns-Cliente: Respuesta dns Cliente-Servidor web: peticion web(request) Servidor web-Servidor web: procesa la petición Servidor web-Servidor web: inserta la informacion(solicitada) Servidor web-Cliente:informacion solicitada  </description>
+    </item>
+    
+    <item>
+      <title>Herramientas y tecnologias</title>
+      <link>https://mohamedcamara.infenlaces.com/hugo/docs/extra/herramientas/</link>
+      <pubDate>Wed, 29 Sep 2021 16:24:25 +0200</pubDate>
+      
+      <guid>https://mohamedcamara.infenlaces.com/hugo/docs/extra/herramientas/</guid>
+      <description>En este apartado citare varias herramientas/tecnologias y las agrupare teniendo en cuenta su finalidad.
+ Frameworks framework PHP: los framework de PHP nos reducen la cantidad de codigo a escribir gracias a que nos proporcionan bibliotecas de codigo que cuentan con funciones de uso comun.
+Django es un framework de alto nivel escrito en Phyton, nos permite desarrollar sitios web de manera rapida.
+Vue es un framework perteneciente a javascript,su funcion es la construccion de interfaces de usuario y aplicaciones que cuentan con una sola pagina(es de codigo abierto).</description>
+    </item>
+    
+  </channel>
+</rss>

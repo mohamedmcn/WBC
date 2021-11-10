@@ -2,26 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WBC on World boxing council</title>
-    <link>https://mohamedmcn.github.io/WBC/en/</link>
+    <link>https://mohamedcamara.infenlaces.com/hugo/docs/en/</link>
     <description>Recent content in WBC on World boxing council</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Sep 2021 18:08:50 +0200</lastBuildDate><atom:link href="https://mohamedmcn.github.io/WBC/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Sep 2021 18:08:50 +0200</lastBuildDate>
+    
+	<atom:link href="https://mohamedcamara.infenlaces.com/hugo/docs/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Champion</title>
-      <link>https://mohamedmcn.github.io/WBC/en/peso-pesado/campeon/</link>
+      <link>https://mohamedcamara.infenlaces.com/hugo/docs/en/peso-pesado/campeon/</link>
       <pubDate>Wed, 29 Sep 2021 16:24:25 +0200</pubDate>
       
-      <guid>https://mohamedmcn.github.io/WBC/en/peso-pesado/campeon/</guid>
+      <guid>https://mohamedcamara.infenlaces.com/hugo/docs/en/peso-pesado/campeon/</guid>
       <description>Tyson Fury Tyson Luke Fury (Manchester; August 12, 1988) is a British professional heavyweight boxer. In November 2015, he defeated Wladimir Klitschko to become the unified heavyweight champion of the WBA (Super), IBF, WBO, IBO, and The Ring magazine. In February 2020 he defeated Deontay Wilder, becoming the champion of the World Boxing Council.
 Initially rejected from fighting for Ireland at the Olympics, he was allowed to represent Great Britain and Ireland after investigating family history with his family name linked to relatives in Belfast.</description>
     </item>
     
     <item>
       <title>Ranking</title>
-      <link>https://mohamedmcn.github.io/WBC/en/peso-pesado/ranking/</link>
+      <link>https://mohamedcamara.infenlaces.com/hugo/docs/en/peso-pesado/ranking/</link>
       <pubDate>Wed, 29 Sep 2021 16:24:10 +0200</pubDate>
       
-      <guid>https://mohamedmcn.github.io/WBC/en/peso-pesado/ranking/</guid>
+      <guid>https://mohamedcamara.infenlaces.com/hugo/docs/en/peso-pesado/ranking/</guid>
       <description>The 15 official rankings of the WBC heavyweight category.
    Heavyweight ranking     Tyson Fury(Champion) see more     Dillian Whyte(Interim champion) see more     1. Deontay Wilder   2. Andy Ruiz   3. Joe Joyce   4. Luis Ortiz   5. Joseph Parker   6. Michael Hunter   7. Agit Kabayel   8.</description>
     </item>

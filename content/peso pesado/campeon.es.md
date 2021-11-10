@@ -19,6 +19,10 @@ Es seguidor del club de fútbol de la Premier League Manchester United. Es cató
 
 ## opciones actuales
 
+{{% notice info %}}
+Esperando el resultado de la pelea
+{{% /notice %}}
+
 {{<mermaid align="left">}}
 graph LR;
     A[Tyson Fury] -->|VS| B[Dillian Whyte]

@@ -2,9 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peso Crucero on consejo mundial de boxeon</title>
-    <link>https://mohamedmcn.github.io/WBC/peso-crucero/</link>
+    <link>https://mohamedcamara.infenlaces.com/hugo/docs/peso-crucero/</link>
     <description>Recent content in Peso Crucero on consejo mundial de boxeon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Sep 2021 18:08:50 +0200</lastBuildDate><atom:link href="https://mohamedmcn.github.io/WBC/peso-crucero/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Sep 2021 18:08:50 +0200</lastBuildDate>
+    
+	<atom:link href="https://mohamedcamara.infenlaces.com/hugo/docs/peso-crucero/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

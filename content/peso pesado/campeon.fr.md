@@ -19,6 +19,10 @@ Il est un supporter du club de football de Premier League Manchester United. Il 
 
 ## options actuelles
 
+{{% notice info %}}
+En attendant le résultat du combat
+{{% /notice %}}
+
 {{<mermaid align="left">}}
 graph LR;
     A[Tyson Fury] -->|VS| B[Dillian Whyte]

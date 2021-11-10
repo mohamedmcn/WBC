@@ -1,6 +1,6 @@
-baseURL = "https://mohamedmcn.github.io/WBC/"
+#baseURL = "https://mohamedmcn.github.io/WBC/"
 #baseURL = "https://localhost/"
-#baseURL = "https://mohamedcamara.infenlaces.com/hugo/"
+baseURL = "https://mohamedcamara.infenlaces.com/hugo/docs/"
 defaultContentLanguage = "es"
 title = "My New Hugo Site"
 theme = "learn"
