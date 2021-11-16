@@ -5,7 +5,7 @@ draft: false
 ---
 # Tyson Fury
  
-![foto tyson fury](images/tyson.jpg)
+![foto tyson fury](/images/tyson.jpg)
 [Tyson Luke Fury](https://es.wikipedia.org/wiki/Tyson_Fury) (Manchester; 12 de agosto de 1988) es un boxeador profesional británico de peso pesado. En noviembre de 2015, derrotó a Wladimir Klitschko para convertirse en el campeón unificado de peso pesado de WBA (Super), IBF, WBO, IBO y The Ring magazine. En febrero de 2020 derrotó a Deontay Wilder, convirtiéndose en el campeón del Consejo Mundial de Boxeo.
 
 Fue inicialmente rechazado para pelear por Irlanda en los Juegos Olímpicos, se le permitió representar a Gran Bretaña e Irlanda tras investigar los antecedentes familiares con su apellido familiar vinculado a parientes en Belfast.3​ Fury ha representado a Gran Bretaña e Irlanda como amateur, ganando el ABA en 2008 antes de dar el paso a profesional un año más tarde. Actualmente invicto, es dos veces campeón británico, un europeo, de la Commonwealth y campeón irlandés de peso pesado, así como campeón de la WBO Inter-Continental y WBO Internacional de peso pesado.
