@@ -19,8 +19,7 @@ name = "<i class='fas fa-dumbbell'></i> WBC"
 identifier = "wbc"
 url = "https://wbcboxing.com/en/"
 weight = 11
-sourceRelativeLinksEval=true
-relativeUrl=true
+ canonifyURLs = true
 
 
 
