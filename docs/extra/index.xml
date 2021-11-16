@@ -16,19 +16,19 @@
       <pubDate>Wed, 29 Sep 2021 16:24:25 +0200</pubDate>
       
       <guid>https://mohamedmcn.github.io/WBC/extra/comunicacion/</guid>
-      <description> sequenceDiagram participant Cliente participant Servidor web participant Servidor dns participant Servidor dns Note left of Cliente: introduce una URL en el navegador Cliente-Servidor dns: Consulta dns loop Hasta que encuentre la ip Servidor dns-Servidor dns: Pregunta al siguiente en la jerarquia end Servidor dns- Servidor dns: guardan la informacion Note right of Servidor dns: los dns por los que pasa la peticion Servidor dns-Cliente: Respuesta dns Cliente-Servidor web: peticion web(request) Servidor web-Servidor web: procesa la petición Servidor web-Servidor web: inserta la informacion(solicitada) Servidor web-Cliente:informacion solicitada  </description>
+      <description>sequenceDiagram participant Cliente participant Servidor dns participant Servidor Note left of Cliente: introduce una URL en el navegador Cliente-Servidor dns: Consulta dns loop Hasta que encuentre la ip Servidor dns-Servidor dns: Pregunta al siguiente en la jerarquía end Servidor dns- Servidor dns: guardan la información Note right of Servidor dns: los dns por los que pasa la petición Servidor dns-Cliente: Respuesta dns Cliente-Servidor : peticion web(request) Servidor -Servidor : procesa la petición Note right of Servidor : leer abajo para  más información Servidor -Servidor : inserta la información(solicitada) Servidor -Cliente:información solicitada  Métodos de peticion HTTP Cuando nos comunicamos con el servidor debemos indicarle la acción que queremos realizar para un recurso en concreto, para ello usamos los HTTP verbs.</description>
     </item>
     
     <item>
-      <title>Herramientas y tecnologias</title>
+      <title>Herramientas y tecnologías</title>
       <link>https://mohamedmcn.github.io/WBC/extra/herramientas/</link>
       <pubDate>Wed, 29 Sep 2021 16:24:25 +0200</pubDate>
       
       <guid>https://mohamedmcn.github.io/WBC/extra/herramientas/</guid>
-      <description>En este apartado citare varias herramientas/tecnologias y las agrupare teniendo en cuenta su finalidad.
- Frameworks framework PHP: los framework de PHP nos reducen la cantidad de codigo a escribir gracias a que nos proporcionan bibliotecas de codigo que cuentan con funciones de uso comun.
-Django es un framework de alto nivel escrito en Phyton, nos permite desarrollar sitios web de manera rapida.
-Vue es un framework perteneciente a javascript,su funcion es la construccion de interfaces de usuario y aplicaciones que cuentan con una sola pagina(es de codigo abierto).</description>
+      <description>En este apartado citaré varias herramientas/tecnologías y las agruparé teniendo en cuenta su finalidad.
+ Frameworks framework PHP: los framework de PHP nos reducen la cantidad de código a escribir gracias a que nos proporcionan bibliotecas de código que cuentan con funciones de uso común.
+Django es un framework de alto nivel escrito en Phyton, nos permite desarrollar sitios web de manera rápida.
+Angular es un framework empleado en la creación y modificación de aplicaciones web de una sola página(es de código abierto).</description>
     </item>
     
   </channel>

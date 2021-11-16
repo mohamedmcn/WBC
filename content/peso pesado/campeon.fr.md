@@ -5,7 +5,7 @@ draft: false
 ---
 # Tyson Fury
 
-![photo tyson fury](/WBC/images/tyson.jpg)
+![photo tyson fury](/images/tyson.jpg)
 [Tyson Luke Fury](https://es.wikipedia.org/wiki/Tyson_Fury) (Manchester ; 12 août 1988) est un boxeur britannique professionnel poids lourd. En novembre 2015, il a battu Wladimir Klitschko pour devenir le champion unifié des poids lourds de la WBA (Super), de l'IBF, de la WBO, de l'IBO et du magazine The Ring. En février 2020, il a battu Deontay Wilder, devenant ainsi le champion du World Boxing Council.
 
 Initialement rejeté de se battre pour l'Irlande aux Jeux olympiques, il a été autorisé à représenter la Grande-Bretagne et l'Irlande après avoir enquêté sur l'histoire de sa famille avec son nom de famille lié à des parents à Belfast.3 Fury a représenté la Grande-Bretagne et l'Irlande en tant qu'amateur, remportant l'ABA en 2008 avant de devenir professionnel un an plus tard. Actuellement invaincu, il est deux fois champion britannique, européen, du Commonwealth et irlandais des poids lourds, ainsi que WBO Inter-Continental et WBO International Heavyweight Champion.

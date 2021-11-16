@@ -3,7 +3,7 @@ title: "Clasificación"
 date: 2021-09-29T16:24:10+02:00
 draft: false
 ---
-**Las 15 clasificaciones oficiales de la categoria peso pesado de la WBC.**
+**Las 15 clasificaciones oficiales de la categoría peso pesado de la WBC.**
 
 | Ranking peso pesado|
 |--|

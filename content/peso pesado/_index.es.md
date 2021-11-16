@@ -24,5 +24,5 @@ Entre los primeros campeones de peso completo se encuentran Tom Molineaux, quien
 
 El primer campeón de peso pesado bajo las Reglas del marqués de Queensberry fue John L. Sullivan, conocido como "El chico fuerte de Boston". Fue vencido por Jim Corbett el 7 de septiembre de 1892, en 21 asaltos.
 
-En los últimos años el título se ha visto fracturado por la existencia de diversas asociaciones mundiales que suelen reconocer como tales a diversos boxeadores. Por lo tanto suele utilizarse la expresión "campeón indiscutido" para aquellos casos en los que todas las asociaciones lo reconocen.
+En los últimos años, el título se ha visto fracturado por la existencia de diversas asociaciones mundiales que suelen reconocer como tales a diversos boxeadores. Por lo tanto, suele utilizarse la expresión "campeón indiscutido" para aquellos casos en los que todas las asociaciones lo reconocen.
 

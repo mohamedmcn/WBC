@@ -12,22 +12,22 @@
     <title>comunicación cliente/Servidor :: consejo mundial de boxeon</title>
 
     
-    <link href="/WBC/css/nucleus.css?1636574393" rel="stylesheet">
-    <link href="/WBC/css/fontawesome-all.min.css?1636574393" rel="stylesheet">
-    <link href="/WBC/css/hybrid.css?1636574393" rel="stylesheet">
-    <link href="/WBC/css/featherlight.min.css?1636574393" rel="stylesheet">
-    <link href="/WBC/css/perfect-scrollbar.min.css?1636574393" rel="stylesheet">
-    <link href="/WBC/css/auto-complete.css?1636574393" rel="stylesheet">
-    <link href="/WBC/css/atom-one-dark-reasonable.css?1636574393" rel="stylesheet">
-    <link href="/WBC/css/theme.css?1636574393" rel="stylesheet">
-    <link href="/WBC/css/tabs.css?1636574393" rel="stylesheet">
-    <link href="/WBC/css/hugo-theme.css?1636574393" rel="stylesheet">
+    <link href="/WBC/css/nucleus.css?1637079396" rel="stylesheet">
+    <link href="/WBC/css/fontawesome-all.min.css?1637079396" rel="stylesheet">
+    <link href="/WBC/css/hybrid.css?1637079396" rel="stylesheet">
+    <link href="/WBC/css/featherlight.min.css?1637079396" rel="stylesheet">
+    <link href="/WBC/css/perfect-scrollbar.min.css?1637079396" rel="stylesheet">
+    <link href="/WBC/css/auto-complete.css?1637079396" rel="stylesheet">
+    <link href="/WBC/css/atom-one-dark-reasonable.css?1637079396" rel="stylesheet">
+    <link href="/WBC/css/theme.css?1637079396" rel="stylesheet">
+    <link href="/WBC/css/tabs.css?1637079396" rel="stylesheet">
+    <link href="/WBC/css/hugo-theme.css?1637079396" rel="stylesheet">
     
-    <link href="/WBC/css/theme-green.css?1636574393" rel="stylesheet">
+    <link href="/WBC/css/theme-green.css?1637079396" rel="stylesheet">
     
     
 
-    <script src="/WBC/js/jquery-3.3.1.min.js?1636574393"></script>
+    <script src="/WBC/js/jquery-3.3.1.min.js?1637079396"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -59,14 +59,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/WBC/js/lunr.min.js?1636574393"></script>
-<script type="text/javascript" src="/WBC/js/auto-complete.js?1636574393"></script>
+<script type="text/javascript" src="/WBC/js/lunr.min.js?1637079396"></script>
+<script type="text/javascript" src="/WBC/js/auto-complete.js?1637079396"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/mohamedmcn.github.io\/WBC\/";
     
 </script>
-<script type="text/javascript" src="/WBC/js/search.js?1636574393"></script>
+<script type="text/javascript" src="/WBC/js/search.js?1637079396"></script>
 
     
   </div>
@@ -133,9 +133,9 @@
  
   
     
-      <li data-nav-id="/WBC/peso-pesado/campeon/" title="Campeon" class="dd-item ">
+      <li data-nav-id="/WBC/peso-pesado/campeon/" title="Campeón" class="dd-item ">
         <a href="/WBC/peso-pesado/campeon/">
-        Campeon
+        Campeón
         
         </a>
     </li>
@@ -168,30 +168,6 @@
           
         
         </ul>
-      
-    </li>
-  
- 
-
-          
-          
-
-
-
-
- 
-  
-    
-    <li data-nav-id="/WBC/peso-crucero/" title="Peso Crucero" class="dd-item
-        
-        
-        
-        ">
-      <a href="/WBC/peso-crucero/">
-          <b>2. </b>Peso Crucero
-          
-      </a>
-      
       
     </li>
   
@@ -254,9 +230,9 @@
  
   
     
-      <li data-nav-id="/WBC/extra/herramientas/" title="Herramientas y tecnologias" class="dd-item ">
+      <li data-nav-id="/WBC/extra/herramientas/" title="Herramientas y tecnologías" class="dd-item ">
         <a href="/WBC/extra/herramientas/">
-        Herramientas y tecnologias
+        Herramientas y tecnologías
         
         </a>
     </li>
@@ -394,7 +370,15 @@
                 
                     <div class="progress">
     <div class="wrapper">
-<nav id="TableOfContents"></nav>
+<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
     </div>
 </div>
 
@@ -421,24 +405,30 @@
 <div class="mermaid" align="center">
 sequenceDiagram
     participant Cliente
-    participant Servidor web
     participant Servidor dns
-    participant Servidor dns
+    participant Servidor 
     Note left of Cliente: introduce una</br> URL en el navegador
      Cliente->>Servidor dns: Consulta dns
      loop Hasta que encuentre la ip
-        Servidor dns->Servidor dns: Pregunta al siguiente en la jerarquia
+        Servidor dns->Servidor dns: Pregunta al siguiente en la jerarquía
         end
-    Servidor dns->> Servidor dns: guardan la informacion
-    Note right of Servidor dns: los dns por los </br>que pasa la peticion
+    Servidor dns->> Servidor dns: guardan la información
+    Note right of Servidor dns: los dns por los </br>que pasa la petición
      Servidor dns->>Cliente: Respuesta dns
-     Cliente->>Servidor web: peticion web(request)
-    Servidor web->>Servidor web: procesa la petición
-    Servidor web->>Servidor web: inserta la informacion(solicitada) 
-    Servidor web->>Cliente:informacion solicitada
+     Cliente->>Servidor : peticion web(request)
+    Servidor ->>Servidor : procesa la petición
+    Note  right of Servidor : leer abajo para </br> más información
+    Servidor ->>Servidor : inserta la información(solicitada) 
+    Servidor ->>Cliente:información solicitada
 
 </div>
 
+<h4 id="métodos-de-peticion-http">Métodos de peticion HTTP</h4>
+<p>Cuando nos comunicamos con el servidor debemos indicarle la acción que queremos realizar para un recurso en concreto, para ello usamos los HTTP verbs.   Estos son algunos de los metodos usados:</p>
+<p><strong>GET:</strong> este método permite el envío de datos añadiendo los datos codificados a la URI.</p>
+<p><strong>PUT:</strong> con put remplazamos todas las representaciones actuales del recurso, dicho de otro modo, se crea un nuevo elemento o se reemplaza.</p>
+<p><strong>HEAD:</strong> es similar al método get solo que no nos devuelve el cuerpo solo la cabecera.</p>
+<p><strong>POST:</strong> a diferencia del método get post añade la información al cuerpo pero cumple la misma función.</p>
 
 
 <footer class="footline">
@@ -543,22 +533,6 @@ sequenceDiagram
             
                 
                     
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
                     
                 
                 
@@ -619,7 +593,7 @@ sequenceDiagram
 			<a class="nav nav-prev" href="/WBC/extra/" title="Extra-Ejercicios"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="/WBC/extra/herramientas/" title="Herramientas y tecnologias" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="/WBC/extra/herramientas/" title="Herramientas y tecnologías" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
@@ -629,19 +603,19 @@ sequenceDiagram
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/WBC/js/clipboard.min.js?1636574393"></script>
-    <script src="/WBC/js/perfect-scrollbar.min.js?1636574393"></script>
-    <script src="/WBC/js/perfect-scrollbar.jquery.min.js?1636574393"></script>
-    <script src="/WBC/js/jquery.sticky.js?1636574393"></script>
-    <script src="/WBC/js/featherlight.min.js?1636574393"></script>
-    <script src="/WBC/js/highlight.pack.js?1636574393"></script>
+    <script src="/WBC/js/clipboard.min.js?1637079396"></script>
+    <script src="/WBC/js/perfect-scrollbar.min.js?1637079396"></script>
+    <script src="/WBC/js/perfect-scrollbar.jquery.min.js?1637079396"></script>
+    <script src="/WBC/js/jquery.sticky.js?1637079396"></script>
+    <script src="/WBC/js/featherlight.min.js?1637079396"></script>
+    <script src="/WBC/js/highlight.pack.js?1637079396"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/WBC/js/modernizr.custom-3.6.0.js?1636574393"></script>
-    <script src="/WBC/js/learn.js?1636574393"></script>
-    <script src="/WBC/js/hugo-learn.js?1636574393"></script>
+    <script src="/WBC/js/modernizr.custom-3.6.0.js?1637079396"></script>
+    <script src="/WBC/js/learn.js?1637079396"></script>
+    <script src="/WBC/js/hugo-learn.js?1637079396"></script>
     
         
-            <script src="/WBC/mermaid/mermaid.js?1636574393"></script>
+            <script src="/WBC/mermaid/mermaid.js?1637079396"></script>
         
         <script>
             mermaid.initialize({ startOnLoad: true });

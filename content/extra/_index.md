@@ -9,4 +9,6 @@ chapter = true
 # Ejercicios dwes
 
 ---
-Apartado dedicado a la realizacion de los ejercicios descritos en el moodle.
+Apartado dedicado a la realización de los ejercicios descritos en el moodle.
+
+
