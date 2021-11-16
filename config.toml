@@ -1,4 +1,4 @@
-baseURL = "https://mohamedmcn.github.io/WBC/"
+baseURL = "https://mohamedmcn.github.io/WBC"
 #baseURL = "https://localhost/"
 #baseURL = "https://mohamedcamara.infenlaces.com/hugo/docs/"
 defaultContentLanguage = "es"
@@ -19,7 +19,7 @@ name = "<i class='fas fa-dumbbell'></i> WBC"
 identifier = "wbc"
 url = "https://wbcboxing.com/en/"
 weight = 11
-
+relativeURLs = true
 
 
 
