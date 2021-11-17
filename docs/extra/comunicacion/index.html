@@ -9,25 +9,25 @@
 
     <link rel="icon" href="https://mohamedmcn.github.io/WBC/images/favicon.png" type="image/png">
 
-    <title>comunicación cliente/Servidor :: consejo mundial de boxeon</title>
+    <title>comunicación cliente/Servidor web :: consejo mundial de boxeon</title>
 
     
-    <link href="https://mohamedmcn.github.io/WBC/css/nucleus.css?1637087242" rel="stylesheet">
-    <link href="https://mohamedmcn.github.io/WBC/css/fontawesome-all.min.css?1637087242" rel="stylesheet">
-    <link href="https://mohamedmcn.github.io/WBC/css/hybrid.css?1637087242" rel="stylesheet">
-    <link href="https://mohamedmcn.github.io/WBC/css/featherlight.min.css?1637087242" rel="stylesheet">
-    <link href="https://mohamedmcn.github.io/WBC/css/perfect-scrollbar.min.css?1637087242" rel="stylesheet">
-    <link href="https://mohamedmcn.github.io/WBC/css/auto-complete.css?1637087242" rel="stylesheet">
-    <link href="https://mohamedmcn.github.io/WBC/css/atom-one-dark-reasonable.css?1637087242" rel="stylesheet">
-    <link href="https://mohamedmcn.github.io/WBC/css/theme.css?1637087242" rel="stylesheet">
-    <link href="https://mohamedmcn.github.io/WBC/css/tabs.css?1637087242" rel="stylesheet">
-    <link href="https://mohamedmcn.github.io/WBC/css/hugo-theme.css?1637087242" rel="stylesheet">
+    <link href="https://mohamedmcn.github.io/WBC/css/nucleus.css?1637178724" rel="stylesheet">
+    <link href="https://mohamedmcn.github.io/WBC/css/fontawesome-all.min.css?1637178724" rel="stylesheet">
+    <link href="https://mohamedmcn.github.io/WBC/css/hybrid.css?1637178724" rel="stylesheet">
+    <link href="https://mohamedmcn.github.io/WBC/css/featherlight.min.css?1637178724" rel="stylesheet">
+    <link href="https://mohamedmcn.github.io/WBC/css/perfect-scrollbar.min.css?1637178724" rel="stylesheet">
+    <link href="https://mohamedmcn.github.io/WBC/css/auto-complete.css?1637178724" rel="stylesheet">
+    <link href="https://mohamedmcn.github.io/WBC/css/atom-one-dark-reasonable.css?1637178724" rel="stylesheet">
+    <link href="https://mohamedmcn.github.io/WBC/css/theme.css?1637178724" rel="stylesheet">
+    <link href="https://mohamedmcn.github.io/WBC/css/tabs.css?1637178724" rel="stylesheet">
+    <link href="https://mohamedmcn.github.io/WBC/css/hugo-theme.css?1637178724" rel="stylesheet">
     
-    <link href="https://mohamedmcn.github.io/WBC/css/theme-green.css?1637087242" rel="stylesheet">
+    <link href="https://mohamedmcn.github.io/WBC/css/theme-green.css?1637178724" rel="stylesheet">
     
     
 
-    <script src="https://mohamedmcn.github.io/WBC/js/jquery-3.3.1.min.js?1637087242"></script>
+    <script src="https://mohamedmcn.github.io/WBC/js/jquery-3.3.1.min.js?1637178724"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -59,14 +59,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="https://mohamedmcn.github.io/WBC/js/lunr.min.js?1637087242"></script>
-<script type="text/javascript" src="https://mohamedmcn.github.io/WBC/js/auto-complete.js?1637087242"></script>
+<script type="text/javascript" src="https://mohamedmcn.github.io/WBC/js/lunr.min.js?1637178724"></script>
+<script type="text/javascript" src="https://mohamedmcn.github.io/WBC/js/auto-complete.js?1637178724"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/mohamedmcn.github.io\/WBC";
     
 </script>
-<script type="text/javascript" src="https://mohamedmcn.github.io/WBC/js/search.js?1637087242"></script>
+<script type="text/javascript" src="https://mohamedmcn.github.io/WBC/js/search.js?1637178724"></script>
 
     
   </div>
@@ -209,9 +209,9 @@
  
   
     
-      <li data-nav-id="/extra/comunicacion/" title="comunicación cliente/Servidor" class="dd-item active">
+      <li data-nav-id="/extra/comunicacion/" title="comunicación cliente/Servidor web" class="dd-item active">
         <a href="https://mohamedmcn.github.io/WBC/extra/comunicacion/">
-        comunicación cliente/Servidor
+        comunicación cliente/Servidor web
         
         </a>
     </li>
@@ -357,7 +357,7 @@
             
           
           
-            <a href='https://mohamedmcn.github.io/WBC/'>WBC</a> > <a href='https://mohamedmcn.github.io/WBC/extra/'>Extra-Ejercicios</a> > comunicación cliente/Servidor
+            <a href='https://mohamedmcn.github.io/WBC/'>WBC</a> > <a href='https://mohamedmcn.github.io/WBC/extra/'>Extra-Ejercicios</a> > comunicación cliente/Servidor web
           
         
           
@@ -394,7 +394,7 @@
           
             <h1>
               
-              comunicación cliente/Servidor
+              comunicación cliente/Servidor web
             </h1>
           
 
@@ -405,30 +405,35 @@
 <div class="mermaid" align="center">
 sequenceDiagram
     participant Cliente
-    participant Servidor dns
-    participant Servidor 
+    participant Servidor  dns
+    participant Servidor web  
     Note left of Cliente: introduce una</br> URL en el navegador
-     Cliente->>Servidor dns: Consulta dns
+     Cliente->>Servidor  dns: Consulta dns
      loop Hasta que encuentre la ip
-        Servidor dns->Servidor dns: Pregunta al siguiente en la jerarquía
+        Servidor  dns->Servidor  dns: Pregunta al siguiente en la jerarquía
         end
-    Servidor dns->> Servidor dns: guardan la información
-    Note right of Servidor dns: los dns por los </br>que pasa la petición
-     Servidor dns->>Cliente: Respuesta dns
-     Cliente->>Servidor : peticion web(request)
-    Servidor ->>Servidor : procesa la petición
-    Note  right of Servidor : leer abajo para </br> más información
-    Servidor ->>Servidor : inserta la información(solicitada) 
-    Servidor ->>Cliente:información solicitada
+    Servidor  dns->> Servidor  dns: guardan la información
+    Note right of Servidor  dns: los dns por los </br>que pasa la petición
+     Servidor  dns->>Cliente: Respuesta dns
+     Cliente->>Servidor web : peticion web(request)
+    Servidor web ->>Servidor web : procesa la petición
+    Note  right of Servidor web : leer abajo para </br> más información
+    Servidor web ->>Servidor web : inserta la información(solicitada) 
+    Servidor web ->>Cliente:información solicitada
 
 </div>
 
 <h4 id="métodos-de-peticion-http">Métodos de peticion HTTP</h4>
-<p>Cuando nos comunicamos con el servidor debemos indicarle la acción que queremos realizar para un recurso en concreto, para ello usamos los HTTP verbs.   Estos son algunos de los metodos usados:</p>
+<p>Cuando nos comunicamos con el servidor web debemos indicarle la acción que queremos realizar para un recurso en concreto, para ello usamos los HTTP verbs.   Estos son algunos de los metodos usados:</p>
 <p><strong>GET:</strong> este método permite el envío de datos añadiendo los datos codificados a la URI.</p>
 <p><strong>PUT:</strong> con put remplazamos todas las representaciones actuales del recurso, dicho de otro modo, se crea un nuevo elemento o se reemplaza.</p>
 <p><strong>HEAD:</strong> es similar al método get solo que no nos devuelve el cuerpo solo la cabecera.</p>
 <p><strong>POST:</strong> a diferencia del método get post añade la información al cuerpo pero cumple la misma función.</p>
+<h4 id="funcionamiento-servidor-web">Funcionamiento servidor web</h4>
+<p>En el proceso de comunicacion cliente servidor  no se trata de una simple extraccion de un archivo, en muchos otro casos el servidor web debe &ldquo;ejecutar un codigo&rdquo;.</p>
+<p><strong>-Ejemplo:</strong></p>
+<p>Si un cliente solicitara un archivo con la extension php, el servidor web solicitaria la intervencion del interprete PHP que estaria funcionando en el servidor web.
+El interprete leeria el archivo que ha solicitado el cliente y procesaria el codigo, se suele dar el caso de que el interprete se comunique con un gestor de bases de datos para solicitar cierta informacion. Cuando el interprete termina de ejecutar el codigo envia el resultado al servidor web web y este a la vez se lo envia al cliente que mediante el navegador muestra la informacion.</p>
 
 
 <footer class="footline">
@@ -603,19 +608,19 @@ sequenceDiagram
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="https://mohamedmcn.github.io/WBC/js/clipboard.min.js?1637087242"></script>
-    <script src="https://mohamedmcn.github.io/WBC/js/perfect-scrollbar.min.js?1637087242"></script>
-    <script src="https://mohamedmcn.github.io/WBC/js/perfect-scrollbar.jquery.min.js?1637087242"></script>
-    <script src="https://mohamedmcn.github.io/WBC/js/jquery.sticky.js?1637087242"></script>
-    <script src="https://mohamedmcn.github.io/WBC/js/featherlight.min.js?1637087242"></script>
-    <script src="https://mohamedmcn.github.io/WBC/js/highlight.pack.js?1637087242"></script>
+    <script src="https://mohamedmcn.github.io/WBC/js/clipboard.min.js?1637178724"></script>
+    <script src="https://mohamedmcn.github.io/WBC/js/perfect-scrollbar.min.js?1637178724"></script>
+    <script src="https://mohamedmcn.github.io/WBC/js/perfect-scrollbar.jquery.min.js?1637178724"></script>
+    <script src="https://mohamedmcn.github.io/WBC/js/jquery.sticky.js?1637178724"></script>
+    <script src="https://mohamedmcn.github.io/WBC/js/featherlight.min.js?1637178724"></script>
+    <script src="https://mohamedmcn.github.io/WBC/js/highlight.pack.js?1637178724"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="https://mohamedmcn.github.io/WBC/js/modernizr.custom-3.6.0.js?1637087242"></script>
-    <script src="https://mohamedmcn.github.io/WBC/js/learn.js?1637087242"></script>
-    <script src="https://mohamedmcn.github.io/WBC/js/hugo-learn.js?1637087242"></script>
+    <script src="https://mohamedmcn.github.io/WBC/js/modernizr.custom-3.6.0.js?1637178724"></script>
+    <script src="https://mohamedmcn.github.io/WBC/js/learn.js?1637178724"></script>
+    <script src="https://mohamedmcn.github.io/WBC/js/hugo-learn.js?1637178724"></script>
     
         
-            <script src="https://mohamedmcn.github.io/WBC/mermaid/mermaid.js?1637087242"></script>
+            <script src="https://mohamedmcn.github.io/WBC/mermaid/mermaid.js?1637178724"></script>
         
         <script>
             mermaid.initialize({ startOnLoad: true });

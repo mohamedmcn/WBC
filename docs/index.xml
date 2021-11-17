@@ -30,12 +30,12 @@ Fue inicialmente rechazado para pelear por Irlanda en los Juegos Olímpicos, se 
     </item>
     
     <item>
-      <title>comunicación cliente/Servidor</title>
+      <title>comunicación cliente/Servidor web</title>
       <link>https://mohamedmcn.github.io/WBC/extra/comunicacion/</link>
       <pubDate>Wed, 29 Sep 2021 16:24:25 +0200</pubDate>
       
       <guid>https://mohamedmcn.github.io/WBC/extra/comunicacion/</guid>
-      <description>sequenceDiagram participant Cliente participant Servidor dns participant Servidor Note left of Cliente: introduce una URL en el navegador Cliente-Servidor dns: Consulta dns loop Hasta que encuentre la ip Servidor dns-Servidor dns: Pregunta al siguiente en la jerarquía end Servidor dns- Servidor dns: guardan la información Note right of Servidor dns: los dns por los que pasa la petición Servidor dns-Cliente: Respuesta dns Cliente-Servidor : peticion web(request) Servidor -Servidor : procesa la petición Note right of Servidor : leer abajo para  más información Servidor -Servidor : inserta la información(solicitada) Servidor -Cliente:información solicitada  Métodos de peticion HTTP Cuando nos comunicamos con el servidor debemos indicarle la acción que queremos realizar para un recurso en concreto, para ello usamos los HTTP verbs.</description>
+      <description>sequenceDiagram participant Cliente participant Servidor dns participant Servidor web Note left of Cliente: introduce una URL en el navegador Cliente-Servidor dns: Consulta dns loop Hasta que encuentre la ip Servidor dns-Servidor dns: Pregunta al siguiente en la jerarquía end Servidor dns- Servidor dns: guardan la información Note right of Servidor dns: los dns por los que pasa la petición Servidor dns-Cliente: Respuesta dns Cliente-Servidor web : peticion web(request) Servidor web -Servidor web : procesa la petición Note right of Servidor web : leer abajo para  más información Servidor web -Servidor web : inserta la información(solicitada) Servidor web -Cliente:información solicitada  Métodos de peticion HTTP Cuando nos comunicamos con el servidor web debemos indicarle la acción que queremos realizar para un recurso en concreto, para ello usamos los HTTP verbs.</description>
     </item>
     
     <item>
