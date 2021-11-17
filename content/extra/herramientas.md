@@ -31,6 +31,8 @@ draft: false
 
 [**JavaScript**](https://developer.mozilla.org/es/docs/Web/JavaScript)es un lenguaje de programación interpretado y orientado a objetos, se suele usar para añadir características interactivas a sitios web.
 
+ [**TypeScript**](https://www.typescriptlang.org/)es un lenguaje de codigo libre creado por Microsoft.Es un superconjunto de JavaScript que permite la creacion de tipos estaticos y objetos basados en clases.
+
 [**Css**](https://developer.mozilla.org/es/docs/Web/CSS) es un lenguaje de diseño gráfico que nos permite determinar el estilo de un documento HTML y derivados.
 
 [**PHP**](https://www.php.net/manual/es/intro-whatis.php) es un lenguaje de programación de código abierto muy útil a la hora de desarrollar web's.
@@ -43,6 +45,8 @@ draft: false
 
 [**Bootstrap**](https://getbootstrap.com/) es una biblioteca que se enfoca en JS,HTML y CSS y nos permite desarrollar páginas web de una forma más simple.
 
+[**Rect**](https://es.reactjs.org/tutorial/tutorial.html) es una biblioteca de javascript diseñada con el fin de facilitar la tarea de crear interfaces de usuario y el desarrollo de aplicaciones de una sola pagina.
+
 ## otras herramientas 
 
 [**Babel**](https://babeljs.io/) es una herramienta que nos ofrece la posibilidad de transformar nuestro código JS actual a un código Javascript para que cualquier navegador o versión de Node.js sea capaz de interpretarlo.
@@ -53,7 +57,11 @@ draft: false
 
 [**Prototype**](https://support.invisionapp.com/hc/en-us/articles/115002498766-Prototype) es un conjunto de varias herramientas que nos permiten diseñar teniendo a nuestra disposición datos reales.
 
-[**JSP**]
- 
+[**JSP**](https://es.wikipedia.org/wiki/JavaServer_Pages)es una tecnologia que le facilita a los desarrolladores la creacion de paginas web dinamicas basadas en HTML,XML,etc.Tiene similitud con PHP pero se basa en java.
+
+[**Scraping**](https://es.wikipedia.org/wiki/Web_scraping)es una tenica que utilizan algunos programas para extraer informacion de diversos sitios web.
+
+[**Heroku**](https://www.heroku.com/)es una plataforma en la nube que permite trabajar con distintos lenguajes de programacion todo desde la nube.
+
 
 
