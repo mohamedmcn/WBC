@@ -57,11 +57,11 @@ draft: false
 
 [**Prototype**](https://support.invisionapp.com/hc/en-us/articles/115002498766-Prototype) es un conjunto de varias herramientas que nos permiten diseñar teniendo a nuestra disposición datos reales.
 
-[**JSP**](https://es.wikipedia.org/wiki/JavaServer_Pages)es una tecnologia que le facilita a los desarrolladores la creacion de paginas web dinamicas basadas en HTML,XML,etc.Tiene similitud con PHP pero se basa en java.
+[**JSP**](https://es.wikipedia.org/wiki/JavaServer_Pages) es una tecnologia que le facilita a los desarrolladores la creacion de paginas web dinamicas basadas en HTML,XML,etc.Tiene similitud con PHP pero se basa en java.
 
-[**Scraping**](https://es.wikipedia.org/wiki/Web_scraping)es una tenica que utilizan algunos programas para extraer informacion de diversos sitios web.
+[**Scraping**](https://es.wikipedia.org/wiki/Web_scraping) es una tenica que utilizan algunos programas para extraer informacion de diversos sitios web.
 
-[**Heroku**](https://www.heroku.com/)es una plataforma en la nube que permite trabajar con distintos lenguajes de programacion todo desde la nube.
+[**Heroku**](https://www.heroku.com/) es una plataforma en la nube que permite trabajar con distintos lenguajes de programacion todo desde la nube.
 
 
 
