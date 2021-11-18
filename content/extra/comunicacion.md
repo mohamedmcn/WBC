@@ -40,13 +40,12 @@ En el proceso de comunicacion cliente servidor  no se trata de una simple extrac
 
 **-Ejemplo:** 
 
-Si un cliente solicitara un archivo con la extension php, el servidor web solicitaria la intervencion del interprete PHP que estaria funcionando en el servidor web.
-El interprete leeria el archivo que ha solicitado el cliente y procesaria el codigo, se suele dar el caso de que el interprete se comunique con un gestor de bases de datos para solicitar cierta informacion. Cuando el interprete termina de ejecutar el codigo envia el resultado al servidor web web y este a la vez se lo envia al cliente que mediante el navegador muestra la informacion. 
+Si un cliente solicitara un archivo con la extension php, el servidor web solicitaria la intervencion del interprete PHP que estaría funcionando en el servidor web.
+El interprete leería el archivo que ha solicitado el cliente y procesaría el código, se suele dar el caso de que el interprete se comunique con un gestor de bases de datos para solicitar cierta información. Cuando el interprete termina de ejecutar el codigo envía el resultado al servidor web web y este a la vez se lo envia al cliente que mediante el navegador muestra la información. 
 
 #### renderizado
 
-Cuando cargamos una pagina web solicitamos al servidor un archivo determinado,por ejemplo podriamos solicitar index.php y cuando el servidor nos devuelva el resultado, tambien se podria dar el caso de que se tuviese que solicitar el css. ya con lo necesario el motor de renderizado analiza los documentos crea el arbol de renderizacion y 
-nos muestra la informacion.
+Cuando cargamos una pagina web solicitamos al servidor un archivo determinado,por ejemplo podríamos solicitar index.php y cuando el servidor nos devuelva el resultado, también se podría dar el caso de que se tuviese que solicitar el css. ya con lo necesario el motor de renderizado analiza los documentos crea el árbol de renderizacion y nos muestra la información.
 **Flujo basico de un motor de renderizado**
 
 {{<mermaid align="left">}}

@@ -25,13 +25,13 @@ draft: false
 
 [**Jekyll**](https://jekyllrb.com/) al igual que los anteriores también permite crear sitios web estáticos de forma simple, se destaca por crear sitios con capacidades de blog.
 
-[**Gatsby**](https://www.gatsbyjs.com/), o GatsbyJS, es un generador de sitios web estáticos, se apoya en React JS una biblioteca de Javascript, permite crear sitios web con varias funcionalidades de forma sencilla.
+[**Gatsby**](https://www.gatsbyjs.com/) , o GatsbyJS, es un generador de sitios web estáticos, se apoya en React JS una biblioteca de Javascript, permite crear sitios web con varias funcionalidades de forma sencilla.
 
 ## Lenguajes 
 
-[**JavaScript**](https://developer.mozilla.org/es/docs/Web/JavaScript)es un lenguaje de programación interpretado y orientado a objetos, se suele usar para añadir características interactivas a sitios web.
+[**JavaScript**](https://developer.mozilla.org/es/docs/Web/JavaScript) es un lenguaje de programación interpretado y orientado a objetos, se suele usar para añadir características interactivas a sitios web.
 
- [**TypeScript**](https://www.typescriptlang.org/)es un lenguaje de codigo libre creado por Microsoft.Es un superconjunto de JavaScript que permite la creacion de tipos estaticos y objetos basados en clases.
+[**TypeScript**](https://www.typescriptlang.org/) es un lenguaje de código libre creado por Microsoft.Es un superconjunto de JavaScript que permite la creación de tipos estaticos y objetos basados en clases.
 
 [**Css**](https://developer.mozilla.org/es/docs/Web/CSS) es un lenguaje de diseño gráfico que nos permite determinar el estilo de un documento HTML y derivados.
 
@@ -59,9 +59,9 @@ draft: false
 
 [**JSP**](https://es.wikipedia.org/wiki/JavaServer_Pages) es una tecnologia que le facilita a los desarrolladores la creacion de paginas web dinamicas basadas en HTML,XML,etc.Tiene similitud con PHP pero se basa en java.
 
-[**Scraping**](https://es.wikipedia.org/wiki/Web_scraping) es una tenica que utilizan algunos programas para extraer informacion de diversos sitios web.
+[**Scraping**](https://es.wikipedia.org/wiki/Web_scraping) es una tecnica que utilizan algunos programas para extraer información de diversos sitios web.
 
-[**Heroku**](https://www.heroku.com/) es una plataforma en la nube que permite trabajar con distintos lenguajes de programacion todo desde la nube.
+[**Heroku**](https://www.heroku.com/) es una plataforma en la nube que permite trabajar con distintos lenguajes de programación todo desde la nube.
 
 
 

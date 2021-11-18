@@ -3,7 +3,7 @@ baseURL = "https://mohamedmcn.github.io/WBC"
 #baseURL = "https://mohamedcamara.infenlaces.com/hugo/docs"
 defaultContentLanguage = "es"
 title = "My New Hugo Site"
-theme = "lear"
+theme = "learn"
 disableLandingPage= "true"
 canonifyURLs = true
 [outputs]
